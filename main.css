@@ -1,3 +1,40 @@
+.world{
+    color: rgba(60,60,62,255);
+    font-weight: 700;
+    padding-top: 1rem;
+    padding-left: 5rem; 
+    font-size: 35px;"
+}
+.add{
+    position: absolute;
+    font-size: 37px; 
+}
+.nu{
+    font-size: 31px;
+    padding-top: 2rem;
+}
+.web{
+    font-size: 33px;
+    padding-top: 2%;
+}
+.mail{
+    font-size: 32px; 
+    padding-top: 2%;
+}
+.logo{
+    background-color: #2C2F36;
+    height: 16rem;
+    overflow: hidden;
+}
+#cre{
+    color: #ffffff7d; 
+    font-size: 20px;
+    padding-left: 22%;
+}
+.h2{
+    background-color: #d5d4d173; 
+    position: relative;
+}
 img{
 	size:50% 
 }
@@ -5,10 +42,10 @@ img{
    position: absolute;
 }
 .buss{
-	background-image: url("main.jpg");
-	background-repeat:none;
-	background-color:#2889c190;
-	color:white;
+    background-color: #2889c190;
+    color: white;
+    position: relative;
+    padding-top: 1%;
 }
 .buss h3,.buss h2,.buss h4{
 	padding-left:7%;
@@ -17,7 +54,7 @@ img{
 .buss h3{
 	font-size: 400%;
 	font-weight:900;
-	margin-top:-15.4%;
+	margin-top:-13.4%;
 	padding-left:7.4%;
 	padding-bottom:9.5%;
 }
@@ -33,11 +70,17 @@ img{
 	padding-left:7.9%;
 	padding-top:4%;
 }
-.pink{
-	background-color:#c43a7491;
-	padding:5%;
-	width:5%;
-	margin-bottom:25%;
+.bg2{
+    background-color: rgba(220, 20, 60, 0.486); 
+    opacity: 50%;
+    margin-bottom: 25%;
+}
+.about{
+    border-left: 6px solid #FF2B8A;
+    font-size: x-large;
+}
+.lorem{
+    font-size: large;
 }
 .back{
 	background-color:rgb(245 245 245);
@@ -58,6 +101,10 @@ footer{
     color: #ee5e9f;
 }
 .sec2{
-    background-color: #f8f8f8;
-    padding: 3%;
+  padding-left: 80px; 
+  padding-top: 25px; 
+  padding-right: 50px;"
+}
+.our{
+    padding-bottom: 2rem;
 }
