@@ -43,14 +43,21 @@ img{
 	background-color:rgb(245 245 245);
 }
 .ux hr{
-	background-color: white;
+	background-color: #fafcfd;
 	padding: 5% 0% 5% 0%;	
     margin: 1% -6% -12% -8%;
 }
 footer{
 	font-size:x-large;
 }
-.sec3{
-	line-height: 1px;
-	margin:0;
+.sec4{
+    border-left: solid 1px #6f6c6c;
+    border-right:solid 1px #6f6c6c;
+}
+.quick{
+    color: #ee5e9f;
+}
+.sec2{
+    background-color: #f8f8f8;
+    padding: 3%;
 }
